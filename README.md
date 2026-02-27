@@ -6,7 +6,7 @@
   
 # ⚔️ RIYAN PRATAMA
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85149&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Threat+Hunter+%7C+SOC+Leader+%7C+Security+Researcher;Building+intelligence-driven+security+operations" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85149&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+To+My+Github+Repository!!" alt="Typing SVG" /></a>
 
 <br/>
 
