@@ -33,7 +33,7 @@ I'm a security practitioner from Indonesia who enjoys tinkering with small tools
   <a href="https://sudo3rs.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://ibliz-muda.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
   <a href="https://github.com/secuity-life-org"><img src="https://img.shields.io/badge/@secuity--life--org-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:angkringan22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:decisive.smelt.akjy@shieldedpost.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
