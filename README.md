@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/Masriyan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=560&lines=Threat+Hunter+%C2%B7+DFIR+%C2%B7+SOC+Detection+Engineer;Open-source+security+tooling+%26+automation;OSINT+%C2%B7+Detection+Engineering+%C2%B7+Agentic+SOC" alt="typing banner">
   </a>
 </p>
 
