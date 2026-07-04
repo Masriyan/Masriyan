@@ -158,7 +158,7 @@ riyan@security-life:~$ cat ~/.now
 <p>
   <a href="http://www.security-life.org"><img src="https://img.shields.io/badge/Blog-1F6FEB?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
   <a href="https://github.com/secuity-life-org"><img src="https://img.shields.io/badge/@secuity--life--org-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:angkringan22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:decisive.smelt.akjy@shieldedpost.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
