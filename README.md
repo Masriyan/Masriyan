@@ -15,7 +15,7 @@
 
 ### 🙋‍♂️ About Me
 
-I'm a security practitioner from Indonesia who enjoys tinkering with small tools and sharing them in the open. I'm still learning every day, breaking things more often than fixing them, and grateful when something I build turns out useful to someone else.
+I'm a security researcher from Indonesia who enjoys tinkering with small tools and sharing them in the open. I'm still learning every day, breaking things more often than fixing them, and grateful when something I build turns out useful to someone else.
 
 - 🔭 &nbsp;I'm currently working on **AI-assisted SOC skills & detection tooling**
 - 🌱 &nbsp;I'm currently learning **agentic automation and cloud security**
