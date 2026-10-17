@@ -1,173 +1,166 @@
-<h1 align="center">Hi there, I'm Riyan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Masriyan">
-  </a>
-</p>
+# Hey, I'm Riyan.
 
-<p align="center">
-  <a href="http://www.security-life.org"><img src="https://img.shields.io/badge/security--life.org-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
-  <img src="https://img.shields.io/github/followers/Masriyan?style=for-the-badge&logo=github&labelColor=0A0A0A&color=1F6FEB" alt="Followers">
-  <a href="https://u8views.com/github/Masriyan"><img src="https://u8views.com/api/v1/github/profiles/15161949/views/day-week-month-total-count.svg" alt="Views"></a>
-</p>
+**Cybersecurity practitioner and open-source tinkerer from Indonesia.**
 
----
+Threat hunting · Digital forensics · Detection engineering · OSINT · Security automation
 
-### 🙋‍♂️ About Me
+<a href="https://github.com/Masriyan">GitHub</a> · <a href="https://www.security-life.org">Website</a> · <a href="https://sudo3rs.medium.com/">Writing</a> · <a href="https://www.linkedin.com/in/sudo3rs/">LinkedIn</a>
 
-I'm a security researcher from Indonesia who enjoys tinkering with small tools and sharing them in the open. I'm still learning every day, breaking things more often than fixing them, and grateful when something I build turns out useful to someone else.
-
-- 🔭 &nbsp;I'm currently working on **AI-assisted SOC skills & detection tooling**
-- 🌱 &nbsp;I'm currently learning **agentic automation and cloud security**
-- 👯 &nbsp;I'm always happy to **collaborate on open-source security projects**
-- 💬 &nbsp;Ask me about **DFIR, threat hunting, OSINT, and SIEM detection**
-- 🤝 &nbsp;I help out around **[@secuity-life-org](https://github.com/secuity-life-org)**
-- ⚡ &nbsp;Fun fact: I name most of my tools after whatever made me laugh that day
+</div>
 
 ---
 
-### 🌐 Connect with me
+### A little about me
 
-<p>
-  <a href="http://www.security-life.org"><img src="https://img.shields.io/badge/Blog-1F6FEB?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
-  <a href="https://sudo3rs.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://ibliz-muda.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-  <a href="https://github.com/secuity-life-org"><img src="https://img.shields.io/badge/@secuity--life--org-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:decisive.smelt.akjy@shieldedpost.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+Most of my work sits somewhere between incident response, threat intelligence, detection engineering, and building small security tools.
 
----
+I like understanding how things work, especially when the documentation is incomplete or the answer is buried in logs. Many repositories here began as something I needed for an investigation, a routine task I wanted to simplify, or an idea worth testing in a lab.
 
-### 🧰 Languages and Tools
+Not everything here is a finished product. Some projects are maintained utilities, others are research notes, prototypes, or earlier experiments. I keep them public because sharing the process, including what still needs improvement, can be useful too.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C4302B?style=flat-square&logo=mitre&logoColor=white">
-  <img src="https://img.shields.io/badge/SIEM_%2F_SOAR-FF6C37?style=flat-square&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/OSINT-0A0A0A?style=flat-square&logo=torbrowser&logoColor=white">
-</p>
+I am usually interested in practical problems, readable code, reproducible findings, and feedback from people who see things differently.
 
----
+### What I usually work on
 
-### 🛠️ Some Things I've Built
+| Area | What interests me |
+| --- | --- |
+| **Threat hunting and CTI** | Turning scattered indicators, behaviors, and open-source evidence into useful leads. |
+| **DFIR and malware triage** | Collecting artifacts, understanding suspicious files, and documenting what the evidence actually supports. |
+| **Detection engineering** | Writing and improving SIEM use cases, analytics, and incident-response workflows. |
+| **Security tooling** | Building focused utilities that reduce repetitive work without hiding important context. |
+| **AI-assisted security** | Exploring where agents and automation help analysts, and where their behavior still needs oversight. |
 
-<sub>A few projects the community has kindly starred (★) — thank you 🙏</sub>
+### A few projects to start with
 
-| Project | What it does | Stack | Stars |
-|---------|--------------|:-----:|:-----:|
-| [**Claude-Code-CyberSecurity-Skill**](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 15 Claude Code Skills covering offensive security, defense, RE, threat hunting & CSOC automation | `Python` | ![](https://img.shields.io/github/stars/Masriyan/Claude-Code-CyberSecurity-Skill?style=flat-square&label=&color=1F6FEB) |
-| [**CrotDalam**](https://github.com/Masriyan/CrotDalam) | Keyless TikTok OSINT — Playwright scraping with scam/phishing risk heuristics (EN/ID) | `Python` | ![](https://img.shields.io/github/stars/Masriyan/CrotDalam?style=flat-square&label=&color=1F6FEB) |
-| [**FuFuFaFa**](https://github.com/Masriyan/FuFuFaFa) | Unified Flaw & Fault Auditing — an AWS cloud security audit framework | `Python` | ![](https://img.shields.io/github/stars/Masriyan/FuFuFaFa?style=flat-square&label=&color=1F6FEB) |
-| [**MacFIRE**](https://github.com/Masriyan/MacFIRE) | macOS forensic acquisition, timeline analysis & rootkit detection | `Python` | ![](https://img.shields.io/github/stars/Masriyan/MacFIRE?style=flat-square&label=&color=1F6FEB) |
-| [**uclsoc_code**](https://github.com/Masriyan/uclsoc_code) | A CSOC use-case library — SIEM detection rules mapped to MITRE ATT&CK | `YAML` | ![](https://img.shields.io/github/stars/Masriyan/uclsoc_code?style=flat-square&label=&color=1F6FEB) |
-| [**FlatScan**](https://github.com/Masriyan/FlatScan) | Static malicious-file scanner — strings/IOC extraction & scoring (text/JSON/PDF) | `Go` | ![](https://img.shields.io/github/stars/Masriyan/FlatScan?style=flat-square&label=&color=1F6FEB) |
-| [**ExpertXSS**](https://github.com/Masriyan/ExpertXSS) | XSS scanner with auto-updating dynamic payloads | `Python` | ![](https://img.shields.io/github/stars/Masriyan/ExpertXSS?style=flat-square&label=&color=1F6FEB) |
-| [**Kalitellingence**](https://github.com/Masriyan/Kalitellingence) | Turns a fresh Kali install into a threat-intel workstation | `Shell` | ![](https://img.shields.io/github/stars/Masriyan/Kalitellingence?style=flat-square&label=&color=1F6FEB) |
-| [**IOC_Radar_X**](https://github.com/Masriyan/IOC_Radar_X) | Real-time IOC extraction & analysis from X.com | `Python` | ![](https://img.shields.io/github/stars/Masriyan/IOC_Radar_X?style=flat-square&label=&color=1F6FEB) |
-| [**StealerKiller**](https://github.com/Masriyan/StealerKiller) | Infostealer detection & removal for endpoints | `Python` | ![](https://img.shields.io/github/stars/Masriyan/StealerKiller?style=flat-square&label=&color=1F6FEB) |
+These are useful starting points if you are new to my repositories. The full public catalog is further down.
 
-<details>
-<summary><b>🗂️ Everything else — the full toolbox by domain</b></summary>
+| Project | Why you might open it |
+| --- | --- |
+| [**FlatScan**](https://github.com/Masriyan/FlatScan) | Static malware triage in Go. Inspect a file without executing it, collect indicators, review PE metadata, and export findings for further analysis. |
+| [**Claude Code CyberSecurity Skills**](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 22 structured Claude Code skills spanning defensive and authorized offensive workflows, CTI, malware analysis, IR, AI security, and more. |
+| [**MacFIRE**](https://github.com/Masriyan/MacFIRE) | macOS-oriented forensic collection and investigation, with artifact review and reporting features. |
+| [**CrotDalam**](https://github.com/Masriyan/CrotDalam) | Public TikTok OSINT collection and analysis using a browser rather than a paid API. |
+| [**PHANTOM Web**](https://github.com/Masriyan/phantom-web) | A lightweight, browser-based workspace for IOC extraction, ATT&CK mapping, local triage and notes. |
+| [**ShortIT**](https://github.com/Masriyan/ShortIT) | Measure where Claude Code tokens are spent and compare optimizations against a real baseline. |
+| [**FuFuFaFa**](https://github.com/Masriyan/FuFuFaFa) | AWS security auditing experiments and configuration review. |
+| [**OpenBOM**](https://github.com/Masriyan/OpenBOM) | Software supply-chain risk research and dependency visibility. |
 
-<br>
-
-**🤖 AI & Agentic Security**
-- [Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) — 15 Claude Code security skills
-- [X-n8-Exnate](https://github.com/Masriyan/X-n8-Exnate) — Agentic SOC playbooks bridging n8n + XSOAR (250+ use cases)
-- [Asu-SOAR](https://github.com/Masriyan/Asu-SOAR) — A SOAR platform experiment
-- [semar](https://github.com/Masriyan/semar) — Multi-agent evaluation for risk, config & AI security
-- [Octopus-Ai](https://github.com/Masriyan/Octopus-Ai) — AI helper for security workflows
-- [gemini-security-skills](https://github.com/Masriyan/gemini-security-skills) — Gemini-based security skills
-
-**🎯 Offensive & Recon**
-- [ExpertXSS](https://github.com/Masriyan/ExpertXSS) — XSS scanner with dynamic payloads
-- [Makassarscan](https://github.com/Masriyan/Makassarscan) — All-in-one recon toolkit
-- [Bucin](https://github.com/Masriyan/Bucin) — External reconnaissance toolkit
-- [Aegis](https://github.com/Masriyan/Aegis) — Single-file URL recon & OSINT enrichment web app
-
-**🛡️ Detection, DFIR & Response**
-- [MacFIRE](https://github.com/Masriyan/MacFIRE) — macOS forensic investigation & response engine
-- [WinFire](https://github.com/Masriyan/WinFire) — Windows incident response engine
-- [FlatScan](https://github.com/Masriyan/FlatScan) — Static malicious-file scanner (Go)
-- [StealerKiller](https://github.com/Masriyan/StealerKiller) — Infostealer detection & removal
-- [Ransomeye](https://github.com/Masriyan/Ransomeye) — Ransomware detection tooling
-- [uclsoc_code](https://github.com/Masriyan/uclsoc_code) — CSOC use-case library (MITRE ATT&CK)
-- [DevoSIEM_UCL](https://github.com/Masriyan/DevoSIEM_UCL) — Devo SIEM use cases + response playbooks
-- [Qradar-SIEM-Auditor](https://github.com/Masriyan/Qradar-SIEM-Auditor) — QRadar SIEM audit tooling
-- [OpenBOM](https://github.com/Masriyan/OpenBOM) — Supply-chain threat detection for Linux
-
-**🔎 OSINT & Threat Intelligence**
-- [CrotDalam](https://github.com/Masriyan/CrotDalam) — Keyless TikTok OSINT with risk heuristics
-- [IOC_Radar_X](https://github.com/Masriyan/IOC_Radar_X) — Real-time IOC extraction from X.com
-- [URL_Request_bot](https://github.com/Masriyan/URL_Request_bot) — Telegram URL bot for ULP logs
-- [Kalitellingence](https://github.com/Masriyan/Kalitellingence) — Kali → threat-intel workstation
-- [CTI-Product-Assesment-Matrix](https://github.com/Masriyan/CTI-Product-Assesment-Matrix) — Enterprise CTI platform matrix
-- [Obscura-Threat-Investigation](https://github.com/Masriyan/Obscura-Threat-Investigation) — Threat investigation notes
-
-**☁️ Cloud & Secret Scanning**
-- [FuFuFaFa](https://github.com/Masriyan/FuFuFaFa) — AWS cloud security audit framework
-- [No-Secret-Scan-](https://github.com/Masriyan/No-Secret-Scan-) — Detect hardcoded secrets in web pages
-- [No-Secret-Scan-Github-Gitlab](https://github.com/Masriyan/No-Secret-Scan-Github-Gitlab) — Scan repos for exposed keys across history
-
-**🧪 Research & Utilities**
-- [FedChecks](https://github.com/Masriyan/FedChecks) — Fedora post-install + health-check reporter
-- [samnayiransomware](https://github.com/Masriyan/samnayiransomware) — Ransomware behavior simulation (research)
-- [Jomok](https://github.com/Masriyan/Jomok) — Research & education project
-- [security-life.Hacktools](https://github.com/Masriyan/security-life.Hacktools) — Misc security utilities
-
-</details>
+<sub>Each repository has its own scope, setup instructions, limitations and license. Please read those before using the code.</sub>
 
 ---
 
-### 📊 GitHub Stats
+## Repository directory
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masriyan&theme=tokyonight" width="82%">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masriyan&theme=tokyonight" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masriyan&theme=tokyonight" height="180">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Masriyan&theme=tokyonight&hide_border=true&border_radius=8" height="180">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masriyan&theme=tokyo-night&hide_border=true&area=true&color=1F6FEB&line=1F6FEB&point=ffffff" width="95%">
-</p>
+I group my public work by its main purpose rather than by stars or popularity. Some repositories overlap across disciplines, so each one appears once in the catalog below. Archived projects remain listed because they may still be useful as references.
+
+<!-- REPOSITORIES:START -->
+<sub>39 public repositories in this index. Initial curated snapshot. Run the catalog workflow to include all currently public repositories.</sub>
+
+### AI, agent workflows and automation
+
+| Repository | Scope |
+| --- | --- |
+| [**Asu-SOAR**](https://github.com/Masriyan/Asu-SOAR) | An experimental security orchestration and response platform with integrations and a unified operations interface. |
+| [**Claude-Code-CyberSecurity-Skill**](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | A collection of 22 Claude Code skills for security workflows, from incident response and hunting to AI security, CTI and purple teaming. |
+| [**gemini-security-skills**](https://github.com/Masriyan/gemini-security-skills) | Structured security and engineering skills for Gemini CLI, including research, threat-intelligence workflows and agent security. |
+| [**Octopus-Ai**](https://github.com/Masriyan/Octopus-Ai) | An AI assistant experiment exploring ways to support everyday workflows with automation. |
+| [**semar**](https://github.com/Masriyan/semar) | Research on evaluating security risks in AI agents, configurations, prompts and connected tools. |
+| [**ShortIT**](https://github.com/Masriyan/ShortIT) | Audits Claude Code session token usage and helps compare practical cost reductions against a recorded baseline. |
+| [**X-n8-Exnate**](https://github.com/Masriyan/X-n8-Exnate) | Security automation and SOC workflow examples connecting orchestration approaches such as n8n and XSOAR. |
+
+### Malware analysis, DFIR and detection
+
+| Repository | Scope |
+| --- | --- |
+| [**DevoSIEM_UCL**](https://github.com/Masriyan/DevoSIEM_UCL) | Detection use cases and response workflow material for Devo SIEM environments. |
+| [**FlatScan**](https://github.com/Masriyan/FlatScan) | A local, static file-analysis engine in Go with IOC extraction, PE intelligence, heuristics and analyst-oriented exports. |
+| [**MacFIRE**](https://github.com/Masriyan/MacFIRE) | macOS forensic collection and incident-response utilities for live triage, artifact review and reporting. |
+| [**OpenBOM**](https://github.com/Masriyan/OpenBOM) | Software supply-chain visibility and package-risk research, with vulnerability and lifecycle context. |
+| [**Qradar-SIEM-Auditor**](https://github.com/Masriyan/Qradar-SIEM-Auditor) | Utilities for reviewing and auditing IBM QRadar SIEM deployments. |
+| [**Ransomeye**](https://github.com/Masriyan/Ransomeye) | A ransomware-focused detection and investigation project. |
+| [**StealerKiller**](https://github.com/Masriyan/StealerKiller) | Endpoint-oriented tooling for detecting and responding to signs of infostealer activity. |
+| [**uclsoc_code**](https://github.com/Masriyan/uclsoc_code) | A CSOC use-case and detection-rule library with MITRE ATT&CK-aligned content. |
+| [**WinFire**](https://github.com/Masriyan/WinFire) | Windows incident-response tooling for forensic artifact collection and investigation support. |
+
+### Threat intelligence and OSINT
+
+| Repository | Scope |
+| --- | --- |
+| [**CrotDalam**](https://github.com/Masriyan/CrotDalam) | Public TikTok OSINT collection using a browser, with video metadata and risk-oriented heuristics. |
+| [**CTI-Product-Assesment-Matrix**](https://github.com/Masriyan/CTI-Product-Assesment-Matrix) | A reference matrix for comparing cyber threat-intelligence products and their capabilities. |
+| [**IOC_Radar_X**](https://github.com/Masriyan/IOC_Radar_X) | Research on extracting and reviewing indicators of compromise from posts on X. |
+| [**Kalitellingence**](https://github.com/Masriyan/Kalitellingence) | Shell-based setup and additions for using Kali Linux as a threat-intelligence workstation. |
+| [**Obscura-Threat-Investigation**](https://github.com/Masriyan/Obscura-Threat-Investigation) | Threat-investigation notes, case material and security research writeups. |
+| [**phantom-web**](https://github.com/Masriyan/phantom-web) | A browser-based CTI workspace for IOC extraction, local file triage, ATT&CK mapping and reports. |
+| [**URL_Request_bot**](https://github.com/Masriyan/URL_Request_bot) | A Telegram-based helper for URL requests and supporting log workflows. |
+
+### Reconnaissance and authorized testing
+
+| Repository | Scope |
+| --- | --- |
+| [**Aegis**](https://github.com/Masriyan/Aegis) <sub>(archived)</sub> | A single-file URL reconnaissance and OSINT enrichment application with optional active checks. |
+| [**Bucin**](https://github.com/Masriyan/Bucin) | External reconnaissance and asset discovery experiments. |
+| [**CVE-2026-85097**](https://github.com/Masriyan/CVE-2026-85097) | A repository labeled as a Bricksforge vulnerability PoC, including a checker and defensive rule examples; verify advisory status independently. |
+| [**ExpertXSS**](https://github.com/Masriyan/ExpertXSS) | An XSS and reflection testing utility with context-aware checks for permitted targets. |
+| [**Makassarscan**](https://github.com/Masriyan/Makassarscan) | A reconnaissance toolkit for collecting and reviewing information about authorized targets. |
+| [**Waduh**](https://github.com/Masriyan/Waduh) | A WordPress assessment toolkit combining enumeration, scanner modules and optional AI-assisted review. |
+
+### Cloud security and secret exposure
+
+| Repository | Scope |
+| --- | --- |
+| [**FuFuFaFa**](https://github.com/Masriyan/FuFuFaFa) | An AWS cloud-auditing framework for reviewing security configuration and possible exposures. |
+| [**No-Secret-Scan-**](https://github.com/Masriyan/No-Secret-Scan-) | A scanner aimed at finding potentially sensitive values exposed in web content. |
+| [**No-Secret-Scan-Github-Gitlab**](https://github.com/Masriyan/No-Secret-Scan-Github-Gitlab) | Scans GitHub and GitLab repositories for possible hardcoded credentials, keys and tokens. |
+
+### Research, learning and utilities
+
+| Repository | Scope |
+| --- | --- |
+| [**FedChecks**](https://github.com/Masriyan/FedChecks) | Fedora post-installation checks and system-health reporting utilities. |
+| [**Jomok**](https://github.com/Masriyan/Jomok) | A research and educational repository containing experimental material. |
+| [**Masriyan**](https://github.com/Masriyan/Masriyan) | The repository that maintains this GitHub profile and its documentation. |
+| [**samnayiransomware**](https://github.com/Masriyan/samnayiransomware) | A ransomware-behavior simulation project intended for controlled research environments. |
+| [**security-life.Hacktools**](https://github.com/Masriyan/security-life.Hacktools) | A collection of smaller security-related tools and utilities. |
+| [**Threat-Model-Exploration**](https://github.com/Masriyan/Threat-Model-Exploration) | Threat-modeling templates, examples, case studies and learning challenges. |
+| [**war-dashboard**](https://github.com/Masriyan/war-dashboard) | An experimental dashboard for tracking public reporting about an ongoing conflict; sources require independent verification. |
+<!-- REPOSITORIES:END -->
+
+<sub>The accompanying GitHub Actions workflow can refresh this directory from all of my public GitHub repositories. Repository metadata and project scopes can change, so each project's own README is the primary source for its current capabilities.</sub>
 
 ---
 
-### 🐍 Contribution Graph
+## How I approach open-source security work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masriyan/Masriyan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masriyan/Masriyan/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Masriyan/Masriyan/output/github-contribution-grid-snake.svg">
-</picture>
+**Evidence before assumptions.** I try to distinguish confirmed observations from heuristics, especially in threat intelligence and malware triage.
+
+**Small tools are allowed to stay small.** A single-purpose script is sometimes more helpful than a complicated platform.
+
+**Know the limitations.** A suspicious pattern is not always malicious, and a scan result is not a substitute for investigation.
+
+**Use the tools responsibly.** Anything involving scanning, exploitation, or adversary simulation belongs on systems you own or are explicitly authorized to assess.
+
+**Keep learning in public.** Bug reports, corrections, ideas, and contributions are welcome. A thoughtful issue can be as helpful as a pull request.
+
+## Notes, writing and contact
+
+When I have something worth documenting, I usually put it in a repository or write about it here:
+
+- [security-life.org](https://www.security-life.org) for articles and experiments
+- [Medium](https://sudo3rs.medium.com/) and [Blogger](https://ibliz-muda.blogspot.com/) for longer notes
+- [LinkedIn](https://www.linkedin.com/in/sudo3rs/) and [X](https://x.com/sudo3rs) for occasional updates
+- [Security Life GitHub community](https://github.com/secuity-life-org) for related open-source work
+
+For a project-specific problem, please use that repository's **Issues** or **Discussions**, when enabled. For other conversations, you can contact me at [this email address](mailto:decisive.smelt.akjy@shieldedpost.net).
+
+If something here saved you a little time, I'm glad it did. If you want to [buy me a coffee](https://paypal.me/riyansuryapratama), thank you, but there is absolutely no obligation.
+
+<div align="center">
 
 ---
 
-### 📝 Latest Writeups
+<sub>Built with curiosity, revised with feedback, and shared for people who are still figuring things out too.</sub>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<sub>Auto-updated from <a href="https://sudo3rs.medium.com/">Medium</a> &amp; <a href="https://ibliz-muda.blogspot.com/">Blogspot</a>.</sub>
-
----
-
-### 💖 Support
-
-If a tool of mine ever saved you some time, a coffee is always appreciated — no pressure at all 🙂
-
-<p>
-  <a href="https://paypal.me/riyansuryapratama"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
-</p>
-
-<p align="center"><sub>Made with curiosity, for blue, purple & red teams — and everyone still learning 💙</sub></p>
+</div>
